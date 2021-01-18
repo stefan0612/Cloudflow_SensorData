@@ -6,22 +6,22 @@
 .
 ├── build.sbt
 ├── LICENSE
-├── project
+├── project <-- Cloudflow Plugins
 │   └── cloudflow-plugins.sbt
 ├── README.md
 └── src
     └── main
-        ├── avro
+        ├── avro <-- Insert Avros here
         │   ├── InvalidMetric.avsc
         │   ├── Measurements.avsc
         │   ├── Metric.avsc
         │   └── SensorData.avsc
-        ├── blueprint
+        ├── blueprint <-- Insert Blueprints here
         │   └── blueprint.conf
-        ├── resources
+        ├── resources <-- Default Logger
         │   ├── local.conf
         │   └── log4j.xml
-        └── scala
+        └── scala <-- Put Scala Code and Packages here
             ├── package.scala
             └── sensordata
                 ├── InvalidMetricLogger.scala
