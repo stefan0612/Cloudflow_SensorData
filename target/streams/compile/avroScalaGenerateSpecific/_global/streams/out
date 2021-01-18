@@ -1,0 +1,5 @@
+[0m[[0m[0minfo[0m] [0m[0mConsidering source directories /home/stefan/Dokumente/master/reactive_programming/cloudflow-demo/src/main/avro[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling AVSC /home/stefan/Dokumente/master/reactive_programming/cloudflow-demo/src/main/avro/Metric.avsc to /home/stefan/Dokumente/master/reactive_programming/cloudflow-demo/target/scala-2.13/scala_avro[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling AVSC /home/stefan/Dokumente/master/reactive_programming/cloudflow-demo/src/main/avro/Measurements.avsc to /home/stefan/Dokumente/master/reactive_programming/cloudflow-demo/target/scala-2.13/scala_avro[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling AVSC /home/stefan/Dokumente/master/reactive_programming/cloudflow-demo/src/main/avro/SensorData.avsc to /home/stefan/Dokumente/master/reactive_programming/cloudflow-demo/target/scala-2.13/scala_avro[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling AVSC /home/stefan/Dokumente/master/reactive_programming/cloudflow-demo/src/main/avro/InvalidMetric.avsc to /home/stefan/Dokumente/master/reactive_programming/cloudflow-demo/target/scala-2.13/scala_avro[0m

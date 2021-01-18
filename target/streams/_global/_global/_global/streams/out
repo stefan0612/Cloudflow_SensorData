@@ -1,0 +1,8 @@
+[0m[[0m[32msuccess[0m] [0m[0m/home/stefan/Dokumente/master/reactive_programming/cloudflow-demo/src/main/blueprint/blueprint.conf verified.[0m
+[0m[[0m[0mdebug[0m] [0m[0mSetting up Kafka broker in Docker on port: 32772[0m
+[0m[[0m[0mdebug[0m] [0m[0mKafka Setup: creating topic: invalid-metrics[0m
+[0m[[0m[0mdebug[0m] [0m[0mKafka Setup: creating topic: metrics[0m
+[0m[[0m[0mdebug[0m] [0m[0mKafka Setup: creating topic: sensor-data[0m
+[0m[[0m[0mdebug[0m] [0m[0mKafka Setup: creating topic: valid-metrics[0m
+[0m[[0m[0minfo[0m] [0m[0mlistening for debugging 'sensor-data-scala' at 'localhost:5004'[0m
+[0m[[0m[0minfo[0m] [0m[0mAttempting to terminate local application[0m
