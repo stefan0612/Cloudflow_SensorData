@@ -2,34 +2,36 @@
 
 
 ## File Tree
-
-+-- build.sbt
-+-- LICENSE
-+-- project <- Cloudflow Plugins
-  │   └── cloudflow-plugins.sbt
-  ├── README.md
-  └── src
-      └── main
-          ├── avro <- Insert Avros here
-          │   ├── InvalidMetric.avsc
-          │   ├── Measurements.avsc
-          │   ├── Metric.avsc
-          │   └── SensorData.avsc
-          ├── blueprint <- Insert Blueprints here
-          │   └── blueprint.conf
-          ├── resources <- Default Logger
-          │   ├── local.conf
-          │   └── log4j.xml
-          └── scala <- Put Scala Code and Packages here
-              ├── package.scala
-              └── sensordata
-                  ├── InvalidMetricLogger.scala
-                  ├── JsonFormats.scala
-                  ├── MetricsValidation.scala
-                  ├── SensorDataHttpIngress.scala
-                  ├── SensorDataToMetrics.scala
-                  ├── SensorDataUtils.scala
-                  └── ValidMetricLogger.scala
+```
+.
+├── build.sbt
+├── LICENSE
+├── project
+│   └── cloudflow-plugins.sbt
+├── README.md
+└── src
+    └── main
+        ├── avro
+        │   ├── InvalidMetric.avsc
+        │   ├── Measurements.avsc
+        │   ├── Metric.avsc
+        │   └── SensorData.avsc
+        ├── blueprint
+        │   └── blueprint.conf
+        ├── resources
+        │   ├── local.conf
+        │   └── log4j.xml
+        └── scala
+            ├── package.scala
+            └── sensordata
+                ├── InvalidMetricLogger.scala
+                ├── JsonFormats.scala
+                ├── MetricsValidation.scala
+                ├── SensorDataHttpIngress.scala
+                ├── SensorDataToMetrics.scala
+                ├── SensorDataUtils.scala
+                └── ValidMetricLogger.scala
+```
 
 ## Requirements
 
