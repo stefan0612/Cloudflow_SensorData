@@ -1,3 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0m([31mverifyBlueprint[0m) cloudflow.sbt.BlueprintVerificationError: [0m
-[0m[[0m[31merror[0m] [0m[0mThe blueprint file does not exist:[0m
-[0m[[0m[31merror[0m] [0m[0m/home/stefan/Dokumente/master/reactive_programming/cloudflow-demo/src/main/blueprint/blueprint.conf[0m

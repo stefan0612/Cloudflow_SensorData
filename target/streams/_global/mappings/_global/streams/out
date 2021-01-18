@@ -1,5 +1,0 @@
-[0m[[0m[0minfo[0m] [0m[0mStreamlet 'sensordata.SensorDataToMetrics' found[0m
-[0m[[0m[0minfo[0m] [0m[0mStreamlet 'sensordata.MetricsValidation' found[0m
-[0m[[0m[0minfo[0m] [0m[0mStreamlet 'sensordata.SensorDataHttpIngress' found[0m
-[0m[[0m[0minfo[0m] [0m[0mStreamlet 'sensordata.ValidMetricLogger' found[0m
-[0m[[0m[0minfo[0m] [0m[0mStreamlet 'sensordata.InvalidMetricLogger' found[0m

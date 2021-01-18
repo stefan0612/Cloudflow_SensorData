@@ -1,6 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0m[zinc] IncrementalCompile -----------[0m
-[0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
-[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 29 products, 12 sources, 11 libraries[0m
-[0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/target/scala-2.13/scala_avro/sensordata/Measurements.scala, ${BASE}/target/scala-2.13/scala_avro/sensordata/InvalidMetric.scala, ${BASE}/src/main/scala/sensordata/InvalidMetricLogger.scala, ${BASE}/src/main/scala/package.scala, ${BASE}/src/main/scala/sensordata/JsonFormats.scala, ${BASE}/src/main/scala/sensordata/SensorDataToMetrics.scala, ${BASE}/src/main/scala/sensordata/MetricsValidation.scala, ${BASE}/target/scala-2.13/scala_avro/sensordata/Metric.scala, ${BASE}/src/main/scala/sensordata/SensorDataHttpIngress.scala, ${BASE}/target/scala-2.13/scala_avro/sensordata/SensorData.scala, ${BASE}/src/main/scala/sensordata/ValidMetricLogger.scala, ${BASE}/src/main/scala/sensordata/SensorDataUtils.scala)[0m
-[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())[0m
-[0m[[0m[0mdebug[0m] [0m[0mNo changes[0m
